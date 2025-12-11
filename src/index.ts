@@ -1,1 +1,1 @@
-export { clsx } from "@/clsx/index";
+export { default } from "@/clsx/index";

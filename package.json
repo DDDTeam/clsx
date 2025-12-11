@@ -1,6 +1,6 @@
 {
   "name": "ddd-clsx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLSX made by DDD team",
   "main": "dist/ddd-clsx.mjs",
   "module": "dist/ddd-clsx.mjs",

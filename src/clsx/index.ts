@@ -39,7 +39,7 @@ type ClassValue = string | { [key: string]: boolean } | undefined;
  * ); // 'foo elevated foozz baz'
  */
 
-export function clsx(...args: ClassValue[]): string {
+export default function clsx(...args: ClassValue[]): string {
   const classes: string[] = [];
 
   for (const arg of args) {
